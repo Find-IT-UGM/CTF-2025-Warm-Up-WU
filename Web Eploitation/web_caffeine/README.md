@@ -4,7 +4,7 @@
 E-commerce listing untuk coffee shop. Phew!!
 
 # Solusi
-Di dalam folder panitia
+Di dalam folder How to Solve
 
 # Flag
 FindITCTF{satoe_caffeine_untuk_sehari_haxing}
